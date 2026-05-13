@@ -87,9 +87,6 @@ while True:
   print("\nResposta da Minha_IA:")
 
   print(resposta.content)
-
-
-
 #egis Chatbot
 
 Projeto acadêmico desenvolvido com o objetivo de criar um chatbot inteligente capaz de responder perguntas utilizando exclusivamente informações extraídas de um site específico. O sistema foi construído em Python utilizando integração com IA generativa, web scraping e processamento de linguagem natural.
