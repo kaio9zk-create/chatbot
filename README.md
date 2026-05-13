@@ -90,25 +90,7 @@ while True:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#Egis Chatbot
-
-Projeto acadêmico desenvolvido com o objetivo de criar um chatbot inteligente capaz de responder perguntas utilizando exclusivamente informações extraídas de um site específico. O sistema foi construído em Python utilizando integração com IA generativa, web scraping e processamento de linguagem natural.
+#Projeto acadêmico desenvolvido com o objetivo de criar um chatbot inteligente capaz de responder perguntas utilizando exclusivamente informações extraídas de um site específico. O sistema foi construído em Python utilizando integração com IA generativa, web scraping e processamento de linguagem natural.
 
 Contexto do Projeto
 
